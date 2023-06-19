@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethindu27&label=Profile%20views&color=0e75b6&style=flat" alt="nethindu27" /> </p>
 
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif" alt="ashendulsanka" data-canonical-src="https://komarev.com/ghpvc/?username=ashendulsanka&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+
 <p align="left"> <a href="https://twitter.com/nethindu_w" target="blank"><img src="https://img.shields.io/twitter/follow/nethindu_w?logo=twitter&style=for-the-badge" alt="nethindu_w" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
